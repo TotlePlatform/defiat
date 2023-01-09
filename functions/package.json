@@ -16,8 +16,8 @@
     "ethereumjs-util": "^6.2.0",
     "ethers": "^4.0.44",
     "express": "~4.16.1",
-    "firebase-admin": "^8.9.2",
-    "firebase-functions": "^3.3.0",
+    "firebase-admin": "^11.4.1",
+    "firebase-functions": "^3.24.1",
     "puppeteer": "^2.1.1",
     "uuid": "^3.4.0",
     "web3": "^1.2.6"
